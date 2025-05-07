@@ -62,7 +62,7 @@ for i in arr:
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/2dbddd18-1b45-4b93-9411-0885928f27be)
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/2dbddd18-1b45-4b93-9411-0885928f27be" />
 
 
 ## Result:
